@@ -1,25 +1,32 @@
 # Project Title
-
-One Paragraph of project description goes here.
-This demonstrates a pull request for CNA 340 IT Project Management.
-
+```
+Debugging Code
+```
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo]
-
-### Prerequisites
-
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+```
+When we run this code ,we do not have output.
+```
 
 
-## Repairing and Running
-Once installed you can run the program with the following command
+## Prerequisites
+```
+Pycharm V2020.1
+```
+
+## Running
+```
+Once installed you can run the program with the following command:
+debug.py
+```
+
+### Add any additional ways to run the program below
 
 ```
-python demo.py
+debug.py
+https://github.com/saeidnahali/Pull-Request-Signed-SoW/blob/master/debug.py
+Persian TECH.docx
+Local: C:\Users\Saeid\Documents\GitHub\Pull-Request-Signed-SoW
 ```
-The error returned was [error]. I solved this by [changes] on [lines].
-
-## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
-Thanks to Zak.
+### Thanks
+I thank everyone who helped me to complete this project.
